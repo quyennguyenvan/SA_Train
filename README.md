@@ -1,5 +1,5 @@
 # SA_Train
-create IaC (infrastruture as code) with terraform for aws
+create IaC (infrastruture as code) with terraform
 
 # first you have to install terraform
 # access your workspace and create folder
